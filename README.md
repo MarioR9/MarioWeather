@@ -25,10 +25,10 @@ Project is created with:
 ## Images
 
 ##### Login 
-<img src="images/weather_mobile_view.png" width="300"> 
+<img src="images/weather_mobile_view.PNG" width="300"> 
 
 ##### User 
-<img src="images/web_view.png" width="300"> 
+<img src="images/web_view.PNG/" width="300"> 
 
 
 
