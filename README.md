@@ -17,7 +17,7 @@ Fetching Weather from OpenWeatherMap and location from geolocation-DB. Simple an
 ## Technologies
 
 Project is created with:
-* Vue version: 
+* Vue.js
 * HTML
 * CSS
 
